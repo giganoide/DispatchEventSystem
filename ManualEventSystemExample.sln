@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProgram", "MainProgram\MainProgram.csproj", "{481369DC-F298-4555-95D6-F2BA08BF871D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{BAE5336C-F33E-48BC-A97E-BCE857C90FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{1F0A37EC-E710-48AF-BDE0-043F1BB58687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481369DC-F298-4555-95D6-F2BA08BF871D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481369DC-F298-4555-95D6-F2BA08BF871D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481369DC-F298-4555-95D6-F2BA08BF871D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481369DC-F298-4555-95D6-F2BA08BF871D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE5336C-F33E-48BC-A97E-BCE857C90FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE5336C-F33E-48BC-A97E-BCE857C90FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE5336C-F33E-48BC-A97E-BCE857C90FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE5336C-F33E-48BC-A97E-BCE857C90FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0A37EC-E710-48AF-BDE0-043F1BB58687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0A37EC-E710-48AF-BDE0-043F1BB58687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0A37EC-E710-48AF-BDE0-043F1BB58687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0A37EC-E710-48AF-BDE0-043F1BB58687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
