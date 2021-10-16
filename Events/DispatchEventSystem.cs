@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Events
 {
-    public class ManualEventSystem : EventSystem
+    public class DispatchEventSystem : EventSystem
     {
         private Dictionary<string, List<Action<object>>> events { get; set; } = new();
 

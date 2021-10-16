@@ -11,7 +11,7 @@ namespace UI
 
         public Window()
         {
-            _eventSystem = new ManualEventSystem();
+            _eventSystem = new DispatchEventSystem();
             Navbar = new Navbar(_eventSystem);
             Body = new Body(_eventSystem);
         }
